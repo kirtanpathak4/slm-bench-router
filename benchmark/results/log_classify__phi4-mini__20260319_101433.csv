@@ -1,0 +1,261 @@
+run_id,task,model,prompt_id,category,run_number,cold_start,success,retry_count,ttft_ms,tokens_per_sec,total_ms,error
+453e3527,log_classify,phi4-mini,lc_001,clear,1,True,True,0,19982.72,6.46,28645.91,
+9b7e0e42,log_classify,phi4-mini,lc_001,clear,2,False,True,0,3041.27,6.09,12237.33,
+c8102123,log_classify,phi4-mini,lc_001,clear,3,False,True,0,2879.05,6.69,11247.71,
+c25a0c10,log_classify,phi4-mini,lc_001,clear,4,False,True,0,2907.45,6.84,11099.41,
+fee68e28,log_classify,phi4-mini,lc_001,clear,5,False,True,0,2928.09,7.15,10761.29,
+e982115f,log_classify,phi4-mini,lc_002,clear,1,False,True,0,3744.65,7.01,12875.19,
+61eaae11,log_classify,phi4-mini,lc_002,clear,2,False,True,0,2745.43,6.25,12984.43,
+c1da5a8d,log_classify,phi4-mini,lc_002,clear,3,False,True,0,2812.42,7.01,11937.95,
+e9256a7b,log_classify,phi4-mini,lc_002,clear,4,False,True,0,2779.7,7.19,11678.65,
+455fd79c,log_classify,phi4-mini,lc_002,clear,5,False,True,0,2739.22,7.27,11542.25,
+b1c0adaa,log_classify,phi4-mini,lc_003,clear,1,False,True,0,3974.29,7.31,10814.49,
+a55714b0,log_classify,phi4-mini,lc_003,clear,2,False,True,0,2818.41,6.36,10679.81,
+72c2ad63,log_classify,phi4-mini,lc_003,clear,3,False,True,0,2822.09,6.94,10027.45,
+c15e7b63,log_classify,phi4-mini,lc_003,clear,4,False,True,0,2795.46,6.47,10524.95,
+c6430488,log_classify,phi4-mini,lc_003,clear,5,False,True,0,2840.83,6.28,10801.92,
+0a356d6f,log_classify,phi4-mini,lc_004,clear,1,False,True,0,3867.01,6.81,11651.94,
+8cdb7243,log_classify,phi4-mini,lc_004,clear,2,False,True,0,2808.57,7.18,10188.23,
+2b13bb4b,log_classify,phi4-mini,lc_004,clear,3,False,True,0,2814.47,7.42,9959.71,
+b49a7de8,log_classify,phi4-mini,lc_004,clear,4,False,True,0,2787.12,7.44,9906.58,
+44edd642,log_classify,phi4-mini,lc_004,clear,5,False,True,0,2783.74,7.34,10002.78,
+bfa359b8,log_classify,phi4-mini,lc_005,clear,1,False,True,0,3952.3,7.39,10987.93,
+05fb45a9,log_classify,phi4-mini,lc_005,clear,2,False,True,0,2768.37,7.33,9860.46,
+9917b7b6,log_classify,phi4-mini,lc_005,clear,3,False,True,0,2775.23,7.39,9815.93,
+315b10f6,log_classify,phi4-mini,lc_005,clear,4,False,True,0,2750.09,7.31,9867.07,
+afbde256,log_classify,phi4-mini,lc_005,clear,5,False,True,0,2808.98,7.27,9958.19,
+5d12c770,log_classify,phi4-mini,lc_006,clear,1,False,True,0,3599.71,7.36,11212.41,
+89c08951,log_classify,phi4-mini,lc_006,clear,2,False,True,0,2760.95,7.36,10374.08,
+4fadda07,log_classify,phi4-mini,lc_006,clear,3,False,True,0,2800.25,7.27,10498.69,
+5c89d3e0,log_classify,phi4-mini,lc_006,clear,4,False,True,0,2773.86,7.39,10353.66,
+6fa4f13e,log_classify,phi4-mini,lc_006,clear,5,False,True,0,2782.81,7.18,10578.73,
+0d622db6,log_classify,phi4-mini,lc_007,clear,1,False,True,0,3867.68,6.04,13140.68,
+a8764700,log_classify,phi4-mini,lc_007,clear,2,False,True,0,2839.1,7.03,10805.85,
+a1f9c4ee,log_classify,phi4-mini,lc_007,clear,3,False,True,0,2797.18,7.27,10498.29,
+caaee7ba,log_classify,phi4-mini,lc_007,clear,4,False,True,0,2722.12,7.26,10434.3,
+9f6c4fdc,log_classify,phi4-mini,lc_007,clear,5,False,True,0,2799.99,7.12,10668.87,
+56890226,log_classify,phi4-mini,lc_008,clear,1,False,True,0,4204.13,7.27,12314.46,
+5eaa0493,log_classify,phi4-mini,lc_008,clear,2,False,True,0,2788.66,7.13,11062.62,
+9248b0b8,log_classify,phi4-mini,lc_008,clear,3,False,True,0,2789.69,7.2,10980.23,
+fb54aec2,log_classify,phi4-mini,lc_008,clear,4,False,True,0,2771.09,7.1,11075.84,
+5f8ea87e,log_classify,phi4-mini,lc_008,clear,5,False,True,0,2779.86,6.2,12297.74,
+50b4a579,log_classify,phi4-mini,lc_009,clear,1,False,True,0,4298.76,6.82,12661.19,
+f1e316ba,log_classify,phi4-mini,lc_009,clear,2,False,True,0,2812.95,6.82,11168.06,
+c8151e00,log_classify,phi4-mini,lc_009,clear,3,False,True,0,2800.29,6.74,11261.3,
+506ff332,log_classify,phi4-mini,lc_009,clear,4,False,True,0,2880.21,6.9,11136.68,
+71066b2f,log_classify,phi4-mini,lc_009,clear,5,False,True,0,2829.78,7.1,10862.63,
+043518d5,log_classify,phi4-mini,lc_010,clear,1,False,True,0,3783.27,6.72,11964.1,
+1857707e,log_classify,phi4-mini,lc_010,clear,2,False,True,0,2817.58,4.88,14080.48,
+d9a90ad3,log_classify,phi4-mini,lc_010,clear,3,False,True,0,3449.83,5.29,13854.93,
+34bf28d4,log_classify,phi4-mini,lc_010,clear,4,False,True,0,3121.33,6.48,11607.95,
+9d57c731,log_classify,phi4-mini,lc_010,clear,5,False,True,0,2834.31,6.81,10912.39,
+d34f241a,log_classify,phi4-mini,lc_011,clear,1,False,True,0,4049.77,6.99,12352.26,
+48236824,log_classify,phi4-mini,lc_011,clear,2,False,True,0,2806.58,7.15,10921.22,
+bfc98ecc,log_classify,phi4-mini,lc_011,clear,3,False,True,0,2816.3,7.22,10845.36,
+66b38d8c,log_classify,phi4-mini,lc_011,clear,4,False,True,0,2763.81,6.69,11433.04,
+db615311,log_classify,phi4-mini,lc_011,clear,5,False,True,0,2821.68,6.75,11420.55,
+fadeff1d,log_classify,phi4-mini,lc_012,clear,1,False,True,0,3939.28,6.48,11193.1,
+54d0277e,log_classify,phi4-mini,lc_012,clear,2,False,True,0,2929.03,5.28,11831.04,
+5eb1d889,log_classify,phi4-mini,lc_012,clear,3,False,True,0,2855.61,5.21,11880.74,
+14500970,log_classify,phi4-mini,lc_012,clear,4,False,True,0,2922.15,3.75,15439.61,
+c0f45168,log_classify,phi4-mini,lc_012,clear,5,False,True,0,3575.99,4.45,14130.82,
+93edea32,log_classify,phi4-mini,lc_013,clear,1,False,True,0,4646.56,4.72,16511.16,
+8dc0360f,log_classify,phi4-mini,lc_013,clear,2,False,True,0,3232.78,4.55,15540.51,
+e8dbf5f4,log_classify,phi4-mini,lc_013,clear,3,False,True,0,3103.24,4.77,14852.68,
+2f61d547,log_classify,phi4-mini,lc_013,clear,4,False,True,0,4140.55,3.91,18447.67,
+aeced17b,log_classify,phi4-mini,lc_013,clear,5,False,True,0,3521.22,4.6,15688.58,
+40e76cbb,log_classify,phi4-mini,lc_014,clear,1,False,True,0,4247.43,3.39,21947.08,
+678f20b4,log_classify,phi4-mini,lc_014,clear,2,False,True,0,3621.38,4.13,18134.75,
+6234a370,log_classify,phi4-mini,lc_014,clear,3,False,True,0,3319.79,4.23,17517.51,
+b6093cec,log_classify,phi4-mini,lc_014,clear,4,False,True,0,3197.16,4.23,17390.61,
+79e6a352,log_classify,phi4-mini,lc_014,clear,5,False,True,0,3421.72,4.12,17993.71,
+41ca634c,log_classify,phi4-mini,lc_015,clear,1,False,True,0,6230.24,3.95,20920.06,
+d15849f0,log_classify,phi4-mini,lc_015,clear,2,False,True,0,3226.46,4.93,14995.72,
+6ec6c017,log_classify,phi4-mini,lc_015,clear,3,False,True,0,3114.26,4.39,16329.02,
+84b8137b,log_classify,phi4-mini,lc_015,clear,4,False,True,0,3195.47,4.7,15537.38,
+1ceb316b,log_classify,phi4-mini,lc_015,clear,5,False,True,0,3171.45,5.2,14331.81,
+1b4a870e,log_classify,phi4-mini,lc_016,ambiguous,1,False,True,0,5152.53,4.82,15534.96,
+91350460,log_classify,phi4-mini,lc_016,ambiguous,2,False,True,0,3109.14,2.29,24915.58,
+9270ad21,log_classify,phi4-mini,lc_016,ambiguous,3,False,True,0,3788.83,4.45,15025.65,
+3e485001,log_classify,phi4-mini,lc_016,ambiguous,4,False,True,0,2978.22,6.18,11070.7,
+c93faab5,log_classify,phi4-mini,lc_016,ambiguous,5,False,True,0,2911.58,6.4,10724.65,
+9b3b216b,log_classify,phi4-mini,lc_017,ambiguous,1,False,True,0,3808.26,6.23,11513.13,
+1edd44cb,log_classify,phi4-mini,lc_017,ambiguous,2,False,True,0,2924.81,5.31,11960.25,
+d9509c29,log_classify,phi4-mini,lc_017,ambiguous,3,False,True,0,2913.51,5.69,11350.61,
+85496c00,log_classify,phi4-mini,lc_017,ambiguous,4,False,True,0,2891.65,6.58,10189.7,
+979895e1,log_classify,phi4-mini,lc_017,ambiguous,5,False,True,0,2814.56,6.3,10431.75,
+95a1fe59,log_classify,phi4-mini,lc_018,ambiguous,1,False,True,0,3615.95,5.94,14050.85,
+9e4b7d04,log_classify,phi4-mini,lc_018,ambiguous,2,False,True,0,2948.32,5.69,13844.4,
+e8e655a4,log_classify,phi4-mini,lc_018,ambiguous,3,False,True,0,2806.98,6.54,12283.29,
+d960b81d,log_classify,phi4-mini,lc_018,ambiguous,4,False,True,0,2834.59,6.58,12251.7,
+3a2ba9cd,log_classify,phi4-mini,lc_018,ambiguous,5,False,True,0,2843.64,6.23,12796.54,
+ce46f1c9,log_classify,phi4-mini,lc_019,ambiguous,1,False,True,0,3496.78,6.12,11500.99,
+12f6bad7,log_classify,phi4-mini,lc_019,ambiguous,2,False,True,0,2873.17,6.43,10490.75,
+ab396638,log_classify,phi4-mini,lc_019,ambiguous,3,False,True,0,2823.21,6.63,10214.66,
+4271a686,log_classify,phi4-mini,lc_019,ambiguous,4,False,True,0,2839.96,6.36,10549.02,
+ffec3eff,log_classify,phi4-mini,lc_019,ambiguous,5,False,True,0,2905.34,6.52,10421.38,
+04bc4e6e,log_classify,phi4-mini,lc_020,ambiguous,1,False,True,0,3882.76,6.5,12195.04,
+b445f9bd,log_classify,phi4-mini,lc_020,ambiguous,2,False,True,0,2817.77,5.95,11890.15,
+181e95ce,log_classify,phi4-mini,lc_020,ambiguous,3,False,True,0,2905.21,6.6,11081.05,
+41cc570b,log_classify,phi4-mini,lc_020,ambiguous,4,False,True,0,2832.69,6.46,11198.21,
+c084cb63,log_classify,phi4-mini,lc_020,ambiguous,5,False,True,0,2799.6,5.64,12374.21,
+e5321d95,log_classify,phi4-mini,lc_021,ambiguous,1,False,True,0,3812.8,5.58,13854.71,
+5722b60d,log_classify,phi4-mini,lc_021,ambiguous,2,False,True,0,2848.35,3.22,20239.19,
+ecbfb862,log_classify,phi4-mini,lc_021,ambiguous,3,False,True,0,3488.9,4.62,15617.63,
+196cdd53,log_classify,phi4-mini,lc_021,ambiguous,4,False,True,0,3162.11,5.2,13922.81,
+aaeb2f84,log_classify,phi4-mini,lc_021,ambiguous,5,False,True,0,2894.85,5.11,13856.77,
+2f860c34,log_classify,phi4-mini,lc_022,ambiguous,1,False,True,0,4480.06,4.92,14652.71,
+3a9044d3,log_classify,phi4-mini,lc_022,ambiguous,2,False,True,0,2981.51,5.21,12579.23,
+23e33eba,log_classify,phi4-mini,lc_022,ambiguous,3,False,True,0,2850.47,5.26,12358.39,
+d3189c5e,log_classify,phi4-mini,lc_022,ambiguous,4,False,True,0,2863.99,5.39,12138.41,
+6817d9f6,log_classify,phi4-mini,lc_022,ambiguous,5,False,True,0,2896.16,5.28,12363.86,
+4de45f63,log_classify,phi4-mini,lc_023,ambiguous,1,False,True,0,3936.59,5.53,13153.07,
+236155cc,log_classify,phi4-mini,lc_023,ambiguous,2,False,True,0,2888.53,5.55,12083.71,
+f7d686cc,log_classify,phi4-mini,lc_023,ambiguous,3,False,True,0,2819.1,5.54,12024.42,
+ccd35d6b,log_classify,phi4-mini,lc_023,ambiguous,4,False,True,0,2891.28,5.19,12712.16,
+99c89e8a,log_classify,phi4-mini,lc_023,ambiguous,5,False,True,0,2850.2,5.14,12772.47,
+d7eeb280,log_classify,phi4-mini,lc_024,ambiguous,1,False,True,0,3951.2,5.42,14470.21,
+184715aa,log_classify,phi4-mini,lc_024,ambiguous,2,False,True,0,2847.06,5.45,13304.83,
+5ef3d31a,log_classify,phi4-mini,lc_024,ambiguous,3,False,True,0,2832.06,5.47,13260.73,
+4fa90514,log_classify,phi4-mini,lc_024,ambiguous,4,False,True,0,2836.35,5.39,13404.16,
+5e9411cf,log_classify,phi4-mini,lc_024,ambiguous,5,False,True,0,2915.62,5.28,13718.07,
+55cba1fb,log_classify,phi4-mini,lc_025,ambiguous,1,False,True,0,4503.54,5.01,16487.02,
+ae68501e,log_classify,phi4-mini,lc_025,ambiguous,2,False,True,0,2830.27,5.33,14087.23,
+673cb173,log_classify,phi4-mini,lc_025,ambiguous,3,False,True,0,2841.27,5.3,14170.68,
+ff774701,log_classify,phi4-mini,lc_025,ambiguous,4,False,True,0,2863.61,5.31,14168.45,
+80501be4,log_classify,phi4-mini,lc_025,ambiguous,5,False,True,0,2842.61,5.56,13642.34,
+72b5980f,log_classify,phi4-mini,lc_026,ambiguous,1,False,True,0,4391.03,5.47,13901.5,
+5a67d1ad,log_classify,phi4-mini,lc_026,ambiguous,2,False,True,0,2778.68,5.79,11757.97,
+eda7bd09,log_classify,phi4-mini,lc_026,ambiguous,3,False,True,0,2801.18,6.13,11286.75,
+d21d40bb,log_classify,phi4-mini,lc_026,ambiguous,4,False,True,0,2917.6,5.5,12372.15,
+9c220277,log_classify,phi4-mini,lc_026,ambiguous,5,False,True,0,2794.84,5.1,12987.78,
+57ef615c,log_classify,phi4-mini,lc_027,ambiguous,1,False,True,0,4544.55,5.85,14463.11,
+53122cb8,log_classify,phi4-mini,lc_027,ambiguous,2,False,True,0,2900.16,6.01,12546.39,
+612ba32c,log_classify,phi4-mini,lc_027,ambiguous,3,False,True,0,2871.37,5.92,12668.31,
+835bf7fe,log_classify,phi4-mini,lc_027,ambiguous,4,False,True,0,2836.37,6.63,11582.51,
+309caf6c,log_classify,phi4-mini,lc_027,ambiguous,5,False,True,0,2867.82,6.61,11648.65,
+0e5c6ca6,log_classify,phi4-mini,lc_028,ambiguous,1,False,True,0,3913.59,6.3,12321.36,
+5b36a968,log_classify,phi4-mini,lc_028,ambiguous,2,False,True,0,2898.19,6.31,11296.13,
+b529b082,log_classify,phi4-mini,lc_028,ambiguous,3,False,True,0,2801.01,6.41,11069.75,
+5666ecb1,log_classify,phi4-mini,lc_028,ambiguous,4,False,True,0,2858.01,6.65,10828.94,
+3478134c,log_classify,phi4-mini,lc_028,ambiguous,5,False,True,0,2948.66,6.15,11562.62,
+2b7a6db4,log_classify,phi4-mini,lc_029,ambiguous,1,False,True,0,3511.34,6.43,11905.96,
+7ed43842,log_classify,phi4-mini,lc_029,ambiguous,2,False,True,0,2836.26,6.61,11011.35,
+7bc6aa47,log_classify,phi4-mini,lc_029,ambiguous,3,False,True,0,2844.57,6.6,11032.41,
+f984626d,log_classify,phi4-mini,lc_029,ambiguous,4,False,True,0,2790.75,6.65,10908.28,
+7653973d,log_classify,phi4-mini,lc_029,ambiguous,5,False,True,0,2802.07,6.72,10840.8,
+60e588e1,log_classify,phi4-mini,lc_030,ambiguous,1,False,True,0,3871.39,6.48,12200.88,
+e936f385,log_classify,phi4-mini,lc_030,ambiguous,2,False,True,0,2848.04,6.63,10987.07,
+46126ff7,log_classify,phi4-mini,lc_030,ambiguous,3,False,True,0,2814.92,6.14,11614.81,
+c11dc5ce,log_classify,phi4-mini,lc_030,ambiguous,4,False,True,0,3010.65,6.01,11997.32,
+a2a0b0f8,log_classify,phi4-mini,lc_030,ambiguous,5,False,True,0,2889.0,6.61,11060.34,
+ae70512b,log_classify,phi4-mini,lc_031,edge,1,False,False,2,2809.0,6.65,9574.03,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+0fa00284,log_classify,phi4-mini,lc_031,edge,2,False,False,2,2917.83,6.29,10067.85,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+496ae747,log_classify,phi4-mini,lc_031,edge,3,False,False,2,2791.15,6.58,9626.6,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+72d95e69,log_classify,phi4-mini,lc_031,edge,4,False,False,2,2790.16,6.67,9537.13,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+0e33856c,log_classify,phi4-mini,lc_031,edge,5,False,False,2,2812.04,6.55,9683.45,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+2dd902d6,log_classify,phi4-mini,lc_032,edge,1,False,True,0,4557.52,6.21,13097.42,
+6cb11e61,log_classify,phi4-mini,lc_032,edge,2,False,True,0,2831.19,6.53,10942.01,
+edb24ab2,log_classify,phi4-mini,lc_032,edge,3,False,True,0,2804.34,6.62,10814.35,
+ffbb8744,log_classify,phi4-mini,lc_032,edge,4,False,True,0,2821.43,6.68,10759.4,
+dfd2af5d,log_classify,phi4-mini,lc_032,edge,5,False,True,0,2806.76,6.67,10754.62,
+9bee08f0,log_classify,phi4-mini,lc_033,edge,1,False,True,0,3095.0,6.49,11572.61,
+0f21bb64,log_classify,phi4-mini,lc_033,edge,2,False,True,0,2807.98,6.61,11124.58,
+7d4c5bbb,log_classify,phi4-mini,lc_033,edge,3,False,True,0,2933.19,6.42,11505.65,
+6707292f,log_classify,phi4-mini,lc_033,edge,4,False,True,0,2779.44,6.72,10959.34,
+70f53612,log_classify,phi4-mini,lc_033,edge,5,False,True,0,2824.33,6.61,11144.64,
+40ad4074,log_classify,phi4-mini,lc_034,edge,1,False,False,2,2840.73,6.48,10243.38,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+b73e2678,log_classify,phi4-mini,lc_034,edge,2,False,False,2,2816.1,6.39,10325.94,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+8a4dee5d,log_classify,phi4-mini,lc_034,edge,3,False,False,2,2929.1,5.1,12338.61,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+a1c12484,log_classify,phi4-mini,lc_034,edge,4,False,False,2,2828.11,6.45,10267.95,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+11008b6e,log_classify,phi4-mini,lc_034,edge,5,False,False,2,2824.84,6.55,10157.77,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'
+  - severity: Input should be 'low', 'medium', 'high' or 'critical'"
+98d57ce9,log_classify,phi4-mini,lc_035,edge,1,False,True,0,5089.98,6.14,14210.51,
+cabd92f5,log_classify,phi4-mini,lc_035,edge,2,False,True,0,2835.95,6.53,11411.21,
+9c44d001,log_classify,phi4-mini,lc_035,edge,3,False,True,0,2828.33,6.78,11082.14,
+9ead7437,log_classify,phi4-mini,lc_035,edge,4,False,True,0,2855.89,6.66,11270.46,
+630dccac,log_classify,phi4-mini,lc_035,edge,5,False,True,0,2823.24,6.56,11363.3,
+a5f635e4,log_classify,phi4-mini,lc_036,edge,1,False,True,0,5127.53,6.3,13222.0,
+5b9c8ba6,log_classify,phi4-mini,lc_036,edge,2,False,True,0,2835.62,6.71,10431.01,
+75c21a3a,log_classify,phi4-mini,lc_036,edge,3,False,True,0,2799.35,6.71,10394.4,
+69ff60b3,log_classify,phi4-mini,lc_036,edge,4,False,True,0,2803.03,6.6,10532.68,
+b142a632,log_classify,phi4-mini,lc_036,edge,5,False,True,0,2788.21,6.48,10659.95,
+fcdf7cd6,log_classify,phi4-mini,lc_037,edge,1,False,True,0,3292.58,6.61,10253.8,
+3091f885,log_classify,phi4-mini,lc_037,edge,2,False,True,0,2808.35,6.58,9797.44,
+b886238c,log_classify,phi4-mini,lc_037,edge,3,False,True,0,2808.17,6.6,9772.86,
+1f58172f,log_classify,phi4-mini,lc_037,edge,4,False,True,0,2800.28,6.7,9667.77,
+abd89b81,log_classify,phi4-mini,lc_037,edge,5,False,True,0,2853.23,5.19,11717.49,
+94ae6297,log_classify,phi4-mini,lc_038,edge,1,False,True,0,4986.56,5.54,15453.83,
+b0a385c5,log_classify,phi4-mini,lc_038,edge,2,False,True,0,2924.14,5.42,13634.34,
+0d0ee861,log_classify,phi4-mini,lc_038,edge,3,False,True,0,2886.37,4.8,14971.79,
+3f9daa55,log_classify,phi4-mini,lc_038,edge,4,False,True,0,3066.92,6.32,12237.94,
+3d063500,log_classify,phi4-mini,lc_038,edge,5,False,True,0,2847.11,6.16,12256.64,
+84372a52,log_classify,phi4-mini,lc_039,edge,1,False,True,0,3764.01,6.45,11518.38,
+e2cadbce,log_classify,phi4-mini,lc_039,edge,2,False,True,0,2785.13,6.56,10409.32,
+a2822875,log_classify,phi4-mini,lc_039,edge,3,False,True,0,2775.49,6.71,10223.94,
+6a41b030,log_classify,phi4-mini,lc_039,edge,4,False,True,0,2827.11,6.49,10525.52,
+b9016317,log_classify,phi4-mini,lc_039,edge,5,False,True,0,2834.09,6.55,10463.24,
+6ba59f90,log_classify,phi4-mini,lc_040,edge,1,False,True,0,4141.13,6.43,12229.98,
+e76aaab1,log_classify,phi4-mini,lc_040,edge,2,False,True,0,2862.16,6.67,10663.89,
+82ae3fd6,log_classify,phi4-mini,lc_040,edge,3,False,True,0,2751.04,6.68,10532.3,
+67ffe331,log_classify,phi4-mini,lc_040,edge,4,False,True,0,2842.06,6.75,10545.99,
+314a6698,log_classify,phi4-mini,lc_040,edge,5,False,True,0,2846.84,6.65,10669.2,
+e650e698,log_classify,phi4-mini,lc_041,negative,1,False,False,2,2805.94,6.59,10696.42,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+64b40245,log_classify,phi4-mini,lc_041,negative,2,False,False,2,2775.65,6.39,10919.36,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+edbb039e,log_classify,phi4-mini,lc_041,negative,3,False,False,2,2859.92,6.67,10657.5,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+6d78bbcc,log_classify,phi4-mini,lc_041,negative,4,False,False,2,2904.17,4.7,13959.98,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+8b2dad2f,log_classify,phi4-mini,lc_041,negative,5,False,False,2,2799.27,6.73,10523.07,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+d471923a,log_classify,phi4-mini,lc_042,negative,1,False,False,2,2902.04,6.39,10568.12,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+cf2a9627,log_classify,phi4-mini,lc_042,negative,2,False,False,2,2791.9,6.51,10314.07,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+12fb23e4,log_classify,phi4-mini,lc_042,negative,3,False,False,2,2798.28,6.69,10121.5,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+507c8fb5,log_classify,phi4-mini,lc_042,negative,4,False,False,2,2781.98,6.42,10414.9,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+e5f0a55f,log_classify,phi4-mini,lc_042,negative,5,False,False,2,2834.41,6.42,10467.92,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+911aede1,log_classify,phi4-mini,lc_043,negative,1,False,False,2,2811.86,6.67,9558.54,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+62ed7f50,log_classify,phi4-mini,lc_043,negative,2,False,False,2,2828.17,6.66,9582.42,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+c08b9214,log_classify,phi4-mini,lc_043,negative,3,False,False,2,2887.55,5.49,11080.88,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+ab92a5b6,log_classify,phi4-mini,lc_043,negative,4,False,False,2,2953.66,5.16,11676.82,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+b2d6c129,log_classify,phi4-mini,lc_043,negative,5,False,False,2,2826.88,6.3,9970.98,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+a997ae1d,log_classify,phi4-mini,lc_044,negative,1,False,False,2,2791.5,6.47,10370.63,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+08ab2ceb,log_classify,phi4-mini,lc_044,negative,2,False,False,2,2820.38,6.03,10945.19,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+7e3f0e34,log_classify,phi4-mini,lc_044,negative,3,False,False,2,2858.79,6.11,10876.15,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+5fca345b,log_classify,phi4-mini,lc_044,negative,4,False,False,2,2818.17,6.66,10174.03,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+da1a3fa8,log_classify,phi4-mini,lc_044,negative,5,False,False,2,2812.8,6.57,10273.92,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+dd0bee09,log_classify,phi4-mini,lc_045,negative,1,False,False,2,2844.96,6.72,9541.59,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+f59afe13,log_classify,phi4-mini,lc_045,negative,2,False,False,2,3017.43,6.04,10462.42,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+8095065b,log_classify,phi4-mini,lc_045,negative,3,False,False,2,2914.32,6.39,9953.38,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+f8b827b4,log_classify,phi4-mini,lc_045,negative,4,False,False,2,5111.77,4.71,14664.13,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+79b96275,log_classify,phi4-mini,lc_045,negative,5,False,False,2,3741.52,4.87,12980.9,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+5328e10c,log_classify,phi4-mini,lc_046,negative,1,False,False,2,3536.88,4.46,14978.47,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+ec2a6cfe,log_classify,phi4-mini,lc_046,negative,2,False,False,2,3549.14,6.67,11196.14,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+23b12f6e,log_classify,phi4-mini,lc_046,negative,3,False,False,2,3711.6,6.44,11632.94,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+38933c5d,log_classify,phi4-mini,lc_046,negative,4,False,False,2,3490.9,6.6,11222.76,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+6b97bf0f,log_classify,phi4-mini,lc_046,negative,5,False,False,2,3634.63,5.8,12429.74,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+be7a1be3,log_classify,phi4-mini,lc_047,negative,1,False,False,2,3574.21,5.57,11646.23,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+8d24c0fc,log_classify,phi4-mini,lc_047,negative,2,False,False,2,3482.98,6.66,10235.88,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+fec7a330,log_classify,phi4-mini,lc_047,negative,3,False,False,2,3425.65,6.15,10747.34,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+49a627a7,log_classify,phi4-mini,lc_047,negative,4,False,False,2,3440.4,6.96,9901.82,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+479c6dae,log_classify,phi4-mini,lc_047,negative,5,False,False,2,3454.2,6.9,9975.54,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+41f3dbfd,log_classify,phi4-mini,lc_048,negative,1,False,False,2,3509.19,6.87,10791.01,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+2cf245fd,log_classify,phi4-mini,lc_048,negative,2,False,False,2,3433.42,6.45,11181.22,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+67dee275,log_classify,phi4-mini,lc_048,negative,3,False,False,2,3663.48,5.8,12283.19,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+d04c6d56,log_classify,phi4-mini,lc_048,negative,4,False,False,2,3765.6,5.37,13071.94,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+5ac8754d,log_classify,phi4-mini,lc_048,negative,5,False,False,2,3427.0,5.78,12080.53,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+cea67b98,log_classify,phi4-mini,lc_049,negative,1,False,False,2,3510.02,6.08,10906.61,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+4c0cda5e,log_classify,phi4-mini,lc_049,negative,2,False,False,2,4235.16,3.72,16327.8,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+661ea134,log_classify,phi4-mini,lc_049,negative,3,False,False,2,3754.22,4.8,13125.84,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+3db83e68,log_classify,phi4-mini,lc_049,negative,4,False,False,2,3409.3,5.41,11720.82,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+dd032b22,log_classify,phi4-mini,lc_049,negative,5,False,False,2,4023.78,4.13,14932.31,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+eb35fc49,log_classify,phi4-mini,lc_050,negative,1,False,False,2,3653.88,3.9,16735.95,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+0af663a0,log_classify,phi4-mini,lc_050,negative,2,False,False,2,3923.06,4.83,14471.48,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+46f12021,log_classify,phi4-mini,lc_050,negative,3,False,False,2,3662.84,4.89,14090.02,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+2e4c846d,log_classify,phi4-mini,lc_050,negative,4,False,False,2,3495.91,5.74,12386.14,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"
+86b201a7,log_classify,phi4-mini,lc_050,negative,5,False,False,2,3910.86,3.18,19965.88,"Schema validation failed after 2 retries. Last error:   - anomaly_type: Input should be 'database', 'network', 'memory', 'auth', 'storage' or 'application'"

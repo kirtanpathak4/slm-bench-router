@@ -1,0 +1,33 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# slm-bench-router — Code Owners
+#
+# Owners listed here are automatically added as required reviewers when a PR
+# touches the matching files or directories. PRs cannot merge until all
+# required owners approve.
+#
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Default: catch-all for any file not listed below
+*                   @kirtanpathak4
+
+# Pydantic output contracts — changes here break all agents that depend on them
+/schemas/           @kirtanpathak4
+
+# Agent logic — base retry/validation loop and all 4 specialized agents
+/agents/            @kirtanpathak4
+
+# Benchmark harness and router eval — changes affect reproducibility of results
+/benchmark/         @kirtanpathak4
+
+# FastAPI routes — public API surface, any change affects callers
+/api/               @kirtanpathak4
+
+# Analysis notebook — charts and findings derived from benchmark CSVs
+/analysis/          @kirtanpathak4
+
+# Project-wide config — MODELS, ROUTER_MODEL_MAP, timeouts affect entire system
+config.py           @kirtanpathak4
+
+# CI/CD workflow and this file — protect the protectors
+/.github/           @kirtanpathak4
